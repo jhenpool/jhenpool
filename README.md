@@ -1,7 +1,8 @@
 ## Hola soy Jhen Pool 👋
 ### Desarrollador Full-Stack 🌎
 
-![Daily UI #008 – 404 Page by Idil Ünal on Dribbble](https://github.com/user-attachments/assets/6eb36d51-a1c4-41ef-8edf-62cbde6f2c30)
+(![lana del ray](https://github.com/user-attachments/assets/b04e86a8-4510-4223-b05f-6ba4b9de8f4a)
+)
 
 
 ## Dentro del epositorio 📁
