@@ -1,11 +1,7 @@
 ## Hola soy Jhen Pool 👋
 ### Desarrollador Full-Stack 🌎
 
-
-
-!(https://github.com/user-attachments/assets/1c93a232-527a-4e50-9535-b5489b843c6f)
-
-
+![ ](https://github.com/user-attachments/assets/94b7dd37-9bbd-457f-a43e-6f571388c1fa)
 
 
 ## Dentro del repositorio 📁
