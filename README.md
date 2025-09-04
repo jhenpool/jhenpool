@@ -5,7 +5,7 @@
 
 
 
-## Dentro del epositorio 📁
+## Dentro del repositorio 📁
 
 En este repositorio encontrarás donde muestro mis proyectos, habilidades y mi evolución como desarrollador. Mi objetivo es aportar al mundo del desarrollo web ideas imnovadoras y abordar los problemas de una manera eficiente y facil de entender.
 
