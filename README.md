@@ -2,7 +2,8 @@
 ### Desarrollador Full-Stack 🌎
 
 
-![ ](https://github.com/user-attachments/aed43065-b390-4678-ac88-cfa88ba2bdb5)
+(https://github.com/user-attachments/assets/c77db1a9-209e-4e28-ab3d-ad57c4b123e7)
+
 
 
 
