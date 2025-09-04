@@ -1,8 +1,8 @@
 ## Hola soy Jhen Pool 👋
 ### Desarrollador Full-Stack 🌎
 
-(![HTML](https://github.com/user-attachments/assets/b04e86a8-4510-4223-b05f-6ba4b9de8f4a)
-)
+![Computer Code GIF - Computer Code Decrypting - Discover   Share GIFs](https://github.com/user-attachments/assets/c6255162-ab8e-47da-a18a-b371b34bfe06)
+
 
 
 ## Dentro del epositorio 📁
